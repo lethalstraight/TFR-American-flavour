@@ -1,0 +1,13 @@
+spriteTypes = {
+	#### NEWS ####
+
+	#### EVENTS ####
+	SpriteType = {
+		name = "GFX_event_picture_APA_red_guards"
+		texturefile = "gfx/event_pictures/APA/APA_red_guards.png"
+	}
+	SpriteType = {
+		name = "GFX_event_picture_APA_disneyland_taken"
+		texturefile = "gfx/event_pictures/APA/APA_disneyland_taken.png"
+	}
+}
